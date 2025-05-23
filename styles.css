@@ -4,19 +4,19 @@ table {
   width: 60%;
   border-collapse: collapse;
   margin: 20px auto;
-  text-align: center;
+  text-align: left;
   font-family: Arial, sans-serif;
 }
 
 thead th {
   background-color: #a62121;
   color: white;
-  padding: 10px;
+  padding: 1px;
   border: 1px solid #8b1d1d;
 }
 
 tbody td {
-  padding: 10px;
+  padding: 1px;
   border: 1px solid #ccc;
 }
 
